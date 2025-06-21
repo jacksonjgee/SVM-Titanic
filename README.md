@@ -1,4 +1,4 @@
-# Titanic - SVM Machine Learning Project
+## Titanic - SVM Machine Learning Project
 
 This project aims to build a Support Vector Machine (SVM) classifier to predict passenger survival on the Titanic dataset. 
 
@@ -22,4 +22,6 @@ This is a project for my university's (UWA) AI club where the task is that each 
 - Matplotlib / Seaborn (optional for visualization)
 
 ## Folder Structure
-
+SVM-Titanic/
+├── SVM-Titanic.ipynb # My main notebook
+├── README.md # This file
