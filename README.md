@@ -1,12 +1,12 @@
-## Titanic - SVM Machine Learning Project
+# Titanic - SVM Machine Learning Project
 
 This project aims to build a Support Vector Machine (SVM) classifier to predict passenger survival on the Titanic dataset. 
 
 This is a project for my university's (UWA) AI club where the task is that each member creates a model using different ML/DL model tpyes. In this case I was given the support vector machine. In this way we can combine different techniques that we used to optimized our own model in a final combined model that will submitted on a Kaggle.com competition https://www.kaggle.com/competitions/titanic.
 
-I will be mainly using jupyter for my coding but I will pair this with kaggle notebooks as it has the feature of using a cloud accelerator which will drastically improve training time. I will do this by simply copy-pasting the code from jupyter to kaggle notebooks:  
+I will be mainly using jupyter for my coding but I will pair this with kaggle notebooks as it has the feature of using a cloud accelerator which will drastically improve training time. I will do this by simply copy-pasting the code from jupyter to kaggle notebooks, however the code is written by me (no vide coding).
 
-## Project Goals
+## Project Timeline
 
 - Load and explore Titanic dataset
 - Preprocess data (handle missing values, encode categories)
@@ -25,5 +25,5 @@ I will be mainly using jupyter for my coding but I will pair this with kaggle no
 
 ## Folder Structure
 SVM-Titanic/
-├── SVM-Titanic.ipynb # My main notebook
-├── README.md # This file
+<br>├── SVM-Titanic.ipynb # My main notebook
+<br>├── README.md # This file
