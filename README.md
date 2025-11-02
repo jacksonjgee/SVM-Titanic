@@ -14,11 +14,6 @@ I will be mainly using jupyter for my coding but I will pair this with kaggle no
 - Scikit-learn
 - Matplotlib / Seaborn (optional for visualization)
 
-## Folder Structure
-SVM-Titanic/
-<br>├── SVM-Titanic.ipynb # My main notebook
-<br>├── README.md # This file
-
 ## Version 2
 I have restarted this project, and I want to do things better. I want to conduct this model with a full Data Science life cycle workflow.
-This includes understanding the problem and and assumption, then collecting and preprocessind the data, then train/model/validate the model, then launching the model, then maintaining the model. For this project I will just be doing steps 2-3.
+This includes understanding the problem and and assumption, then collecting and preprocessing the data, then train/model/validate the model, then launching the model, then maintaining the model. For this project I will just be doing steps 2-3.
